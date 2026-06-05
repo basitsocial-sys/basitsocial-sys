@@ -1,5 +1,5 @@
 #  About Me:
-  About Me<br><br>*  I’m currently working on **Pancreatic Tumor Detection (early-stage) using medical imaging and AI**<br>*  I’m looking to collaborate on **Computer Vision, Medical Imaging, and Deep Learning projects**<br>*  I’m looking for help with **medical image segmentation, model accuracy improvement, and dataset handling (NIfTI, 3D scans)**<br>* Ask me about **Python, Machine Learning, Deep Learning, OpenCV, and AI in healthcare**<br>*  Fun fact: **I’m passionate about using AI to detect diseases early and improve healthcare systems**<br>
+  About Me<br><br>  I’m currently working on **Pancreatic Tumor Detection (early-stage) using medical imaging and AI**<br>  I’m looking to collaborate on **Computer Vision, Medical Imaging, and Deep Learning projects**<br>   I’m looking for help with **medical image segmentation, model accuracy improvement, and dataset handling (NIfTI, 3D scans)**<br> Ask me about **Python, Machine Learning, Deep Learning, OpenCV, and AI in healthcare**<br>   Fun fact: **I’m passionate about using AI to detect diseases early and improve healthcare systems**<br>
 
 
 #  Tech Stack:
